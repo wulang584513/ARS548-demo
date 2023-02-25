@@ -1,0 +1,9 @@
+std_msgs/Header header
+
+float32 AccelerationLateralErrAmp
+uint8 AccelerationLateralErrAmp_InvalidFlag
+uint8 QualifierAccelerationLateral 
+float32 AccelerationLateral
+uint8 AccelerationLateral_InvalidFlag
+uint8 AccelerationLateralEventDataQualifier
+

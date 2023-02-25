@@ -1,0 +1,8 @@
+std_msgs/Header header
+
+uint8 QualifierSteeringAngleFrontAxle
+float32 SteeringAngleFrontAxleErrAmp
+uint8 SteeringAngleFrontAxleErrAmp_InvalidFlag
+float32 SteeringAngleFrontAxle
+uint8 SteeringAngleFrontAxle_InvalidFlag
+uint8 SteeringAngleFrontAxleEventDataQualifier
